@@ -1,0 +1,26 @@
+h2{
+    text-align: center;
+    color: chocolate;
+    text-transform:uppercase;
+    letter-spacing: 5px;
+    text-shadow: 5px 3px 5px black ;
+    
+}
+
+
+.text{
+    margin-top: 50px;
+    width: 400px;
+    height: 200px;
+    background-color: aquamarine;
+    text-align: justify;
+    text-indent: 50px;
+    line-height: 20px;
+    border: 2px dashed black;
+   
+}
+
+.wrong{
+    width: 100%;
+    
+}
